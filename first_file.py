@@ -2,10 +2,10 @@
 print("your build was succesfull")
 
 
-def click()
+def click():
     print("Click")
 
-def welcome()
+def welcome():
     print("New Screen")
 
 

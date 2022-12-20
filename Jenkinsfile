@@ -5,7 +5,7 @@ pipeline {
         
         stage('Hello') {
             steps {
-                sh 'python3 first_ile.py'
+                sh 'python3 first_file.py'
                 sh 'date'
             }
         }
